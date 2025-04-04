@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6859fad5-5549-465c-97c7-623137279494" name="Changes" comment="T-bot">
+      <change afterPath="$PROJECT_DIR$/t-bot/core/ssh_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t-bot/handlers/vpn/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t-bot/jobs/vpn_cleaner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t-bot/services/vpn_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-bot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/t-bot/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-bot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/t-bot/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +194,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743763023495</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="T-bot">
+      <option name="closed" value="true" />
+      <created>1743763481252</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743763481252</updated>
+    </task>
+    <task id="LOCAL-00012" summary="T-bot">
+      <option name="closed" value="true" />
+      <created>1743763683676</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743763683676</updated>
+    </task>
+    <task id="LOCAL-00013" summary="T-bot">
+      <option name="closed" value="true" />
+      <created>1743764314629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743764314629</updated>
+    </task>
+    <task id="LOCAL-00014" summary="T-bot">
+      <option name="closed" value="true" />
+      <created>1743764380853</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743764380853</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
