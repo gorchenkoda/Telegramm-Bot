@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6859fad5-5549-465c-97c7-623137279494" name="Changes" comment="T-bot" />
+    <list default="true" id="6859fad5-5549-465c-97c7-623137279494" name="Changes" comment="T-bot">
+      <change afterPath="$PROJECT_DIR$/t-bot/files/vpn_configs/FLY3-user_user_817182318_1743658365-1month.ovpn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t-bot/ssh_keys/vpnbot_private_key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t-bot/ssh_keys/vpnbot_private_key.pub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-bot/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t-bot/test/1.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743750817984</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="T-bot">
+      <option name="closed" value="true" />
+      <created>1743750954871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743750954871</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
