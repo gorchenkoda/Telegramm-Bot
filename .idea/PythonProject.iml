@@ -4,6 +4,17 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/t-bot" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/core" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/database" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/files" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/handlers" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/handlers/admin" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/handlers/common" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/handlers/payments" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/jobs" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/services" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/ssh_keys" />
+      <excludeFolder url="file://$MODULE_DIR$/t-bot/static" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11 (PythonProject)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
